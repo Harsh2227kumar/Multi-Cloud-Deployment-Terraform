@@ -27,6 +27,14 @@ FirstProject/
 └── terraform.tfstate.backup    # Terraform state backup
 ```
 
+
+## Deliverables
+1. Terraform scripts (in the repo)
+2. Infrastructure diagram (diagram.png)
+3. Screenshots from both cloud dashboards (ss1.png, ss2.png, ss3.png)
+4. Deployment report with validation steps (given below)
+
+
 ## 🚀 What I Did
 
 - Created an SSH key pair using `ssh-keygen` and saved in `ssh-keys/`.
